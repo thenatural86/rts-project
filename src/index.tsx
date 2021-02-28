@@ -1,7 +1,7 @@
 import ReactDom from 'react-dom'
 import { EventComponent } from './event/EventComponent'
 import GuestList from './state/GuestList'
-import UserSearch from './state/UserSearch'
+import UserSearch from './refs/UserSearch'
 
 const App = () => {
   return (
